@@ -1,5 +1,7 @@
 # thermomax server
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/maximilian-krauss/thermomax-server.svg)](https://greenkeeper.io/)
+
 Server for storing temperature measurements the [agent](https://github.com/maximilian-krauss/thermomax-agent).
 
 Hint: index.html is more like a proof of concept, it needs some frontend love
